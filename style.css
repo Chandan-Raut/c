@@ -362,7 +362,7 @@ a {
   }
 
   .home-img {
-    margin-top: 20px; /* ensures ~1cm gap under navbar */
+    margin-top: 30px; /* ensures ~1cm gap under navbar */
   }
 
   .home-info h1 {
@@ -393,5 +393,6 @@ a {
     aspect-ratio: 1/1; /* keep circle */
   }
 }
+
 
 
